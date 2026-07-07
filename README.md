@@ -2,7 +2,7 @@
 <!--                    HEADER                             -->
 <!-- ===================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:3B82F6,100:06B6D4&text=Nishant%20Kohli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Competitive%20Programmer%20×%20Full%20Stack%20Developer%20×%20AI/ML%20Enthusiast&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:3B82F6,100:06B6D4&text=Nishant%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Competitive%20Programmer%20×%20Full%20Stack%20Developer%20×%20AI/ML%20Enthusiast&descAlignY=55"/>
 
 <h1 align="center">Hi 👋, I'm Nishant Singh</h1>
 
@@ -59,7 +59,7 @@ B.Tech CSE Student @ IIIT Gwalior • Competitive Programmer • Software Develo
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/nishant-singh-614bab324/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
