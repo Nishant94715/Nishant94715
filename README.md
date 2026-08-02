@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Singh</h1>
 
 <h3 align="center">
-B.Tech CSE Student @ IIIT Gwalior • Competitive Programmer • Software Developer • AI/ML Enthusiast
+B.Tech CSE Student @ IIIT Gwalior • Competitive Programmer • Software Developer 
 </h3>
 
 <p align="center">
